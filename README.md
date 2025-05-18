@@ -30,6 +30,7 @@ En utilisant modèle :
 ![image](https://github.com/user-attachments/assets/f18a2963-713d-435c-8d26-e7fb5423082d)
 
 # Faire des améliorations supplémentaires
+![image](https://github.com/user-attachments/assets/4bff12c8-2302-4e7c-86ed-71863419e6ac)
 
 ## Partie 2  : https://www.youtube.com/watch?v=eoBE745lDE0
 Créer une page template
