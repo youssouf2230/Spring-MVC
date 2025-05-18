@@ -27,10 +27,11 @@ En utilisant modèle :
 ![image](https://github.com/user-attachments/assets/9564ddc3-8afe-4ce3-9856-cb5abdd81b13)
 
 # Supprimer un patient
+![image](https://github.com/user-attachments/assets/f18a2963-713d-435c-8d26-e7fb5423082d)
 
 # Faire des améliorations supplémentaires
 
-##Partie 2  : https://www.youtube.com/watch?v=eoBE745lDE0
+## Partie 2  : https://www.youtube.com/watch?v=eoBE745lDE0
 Créer une page template
 Faire la validation des formulaires
 Partie 3 : Sécurité avec Spring security  : 
