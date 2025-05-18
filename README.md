@@ -12,13 +12,23 @@ L'application doit permettre les fonctionnalités suivantes :
 
 ![image](https://github.com/user-attachments/assets/9da947e5-4adb-48b5-839f-b19dc0e7c7ad)
 
-#Faire la pagination
+## Faire la pagination
+page 0:
+![image](https://github.com/user-attachments/assets/c2e18a57-8926-48a4-a618-e2a7a241966a)
+page 1 :
+![image](https://github.com/user-attachments/assets/2e7cfbdb-04c8-42e9-b886-7cee11ffd0b0)
 
-#Chercher les patients
+default page :
+![image](https://github.com/user-attachments/assets/7f16aecb-b84a-4c47-b9e7-37dcf847929b)
+En utilisant modèle :
+![image](https://github.com/user-attachments/assets/6e7c5576-14df-4cde-b906-9348e3068f57)
 
-#Supprimer un patient
+# Chercher les patients
+![image](https://github.com/user-attachments/assets/9564ddc3-8afe-4ce3-9856-cb5abdd81b13)
 
-#Faire des améliorations supplémentaires
+# Supprimer un patient
+
+# Faire des améliorations supplémentaires
 
 ##Partie 2  : https://www.youtube.com/watch?v=eoBE745lDE0
 Créer une page template
