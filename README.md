@@ -10,10 +10,9 @@ L'application doit permettre les fonctionnalités suivantes :
 
 ![image](https://github.com/user-attachments/assets/92c08764-dfcf-4ae2-ba2c-bc06f7d7cb7e)
 
-#Faire la pagination
-
 ![image](https://github.com/user-attachments/assets/9da947e5-4adb-48b5-839f-b19dc0e7c7ad)
 
+#Faire la pagination
 
 #Chercher les patients
 
