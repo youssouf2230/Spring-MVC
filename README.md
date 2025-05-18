@@ -4,10 +4,15 @@ Partie 1 :
 Créer une application Web JEE basée sur Spring MVC, Thylemeaf et Spring Data JPA qui permet de gérer les patients.
 L'application doit permettre les fonctionnalités suivantes :
 Afficher les patients
+
 ![image](https://github.com/user-attachments/assets/1d141df2-51de-4326-ad23-544ac4778245)
+
 ![image](https://github.com/user-attachments/assets/92c08764-dfcf-4ae2-ba2c-bc06f7d7cb7e)
+
 Faire la pagination
+
 ![image](https://github.com/user-attachments/assets/8e4f344b-dece-4e76-b65e-c5ba453257f0)
+
 Chercher les patients
 Supprimer un patient
 Faire des améliorations supplémentaires
