@@ -11,11 +11,15 @@ Afficher les patients
 
 Faire la pagination
 
-![image](https://github.com/user-attachments/assets/8e4f344b-dece-4e76-b65e-c5ba453257f0)
+![image](https://github.com/user-attachments/assets/9da947e5-4adb-48b5-839f-b19dc0e7c7ad)
+
 
 Chercher les patients
+
 Supprimer un patient
+
 Faire des améliorations supplémentaires
+
 Partie 2  : https://www.youtube.com/watch?v=eoBE745lDE0
 Créer une page template
 Faire la validation des formulaires
