@@ -36,6 +36,7 @@ En utilisant modèle :
 Créer une page template
 Faire la validation des formulaires
 ![image](https://github.com/user-attachments/assets/7af40980-7036-4aff-b06a-922c592fc4c2)
+![image](https://github.com/user-attachments/assets/93d60d56-6dcb-454a-978c-832b3de65762)
 
 # Partie 3 : Sécurité avec Spring security  : 
    - InMemomy Authentication:  https://www.youtube.com/watch?v=7VqpC8UD1zM
