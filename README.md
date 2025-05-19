@@ -35,7 +35,7 @@ En utilisant modèle :
 ## Partie 2  : https://www.youtube.com/watch?v=eoBE745lDE0
 Créer une page template
 Faire la validation des formulaires
-Partie 3 : Sécurité avec Spring security  : 
+# Partie 3 : Sécurité avec Spring security  : 
    - InMemomy Authentication:  https://www.youtube.com/watch?v=7VqpC8UD1zM
    - JDBC Authentication : https://www.youtube.com/watch?v=Haz3wLiQ5-0
    - UserDetails Service : https://www.youtube.com/watch?v=RTiS9ygyYs4
