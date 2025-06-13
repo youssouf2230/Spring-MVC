@@ -1,3 +1,28 @@
+# Introduction
+      Au cours de cette activité, l'objectif a été de créer une application Web JEE avec Spring MVC, Thymeleaf, Spring Data JPA et Spring Security.
+      Elle offre des fonctionnalités de gestion de patients (afficher, paginate, chercher, supprimer), de validation de formulaires, et de sécurité (authentification, autorisation).
+
+# Objectif
+      L'objectif de ce projet consiste donc à :
+      
+      Mettre en place une application Spring MVC avec Thymeleaf et Spring Data JPA.
+      
+      Gérer le CRUD de patients avec pagination, recherches, et suppressions.
+      
+      Valider les formulaires côté serveur.
+      
+      Protéger l'accès avec Spring Security, que ce soit en mémoire, par JDBC, ou UserDetails service.
+
+# But
+      Le but est de :
+      
+      Acquérir de l’expérience sur le développement d'une application Spring de A à Z.
+      
+      S'entraîner sur Spring Security, en utilisant InMemory, JDBC et UserDetails service.
+      
+      Découvrir la création de pages dynamiques avec Thymeleaf et la gestion des cas d'erreur (validation).
+      
+
 # Spring-MVC
 Activité 3 SYSTEME DISTRIBUE.
 
@@ -46,3 +71,14 @@ Faire la validation des formulaires
 
 Mise à jour du code pour Spring Boot 3.2 :
 ![image](https://github.com/user-attachments/assets/a9ea028a-edc3-49bd-aee1-873786f592f6)
+
+# Conclusion
+      Au terme de ce projet :
+      
+      Nous avons réussi à implémenter une application Web complète avec Spring MVC, Spring Data JPA, Thymeleaf et Spring Security.
+      
+      Nous avons vu comment assurer la sécurité des accès, valider les données, paginer les résultats et gérer le CRUD de l'entité « patient ».
+      
+      Cette expérience nous a offert une base robuste afin de construire des applications professionnelles avec Spring.
+      
+      
